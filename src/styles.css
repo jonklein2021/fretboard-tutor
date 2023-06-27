@@ -1,0 +1,17 @@
+:root {
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#neck-image {
+    width: 65vw;
+}
